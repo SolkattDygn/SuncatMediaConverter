@@ -13,6 +13,7 @@ HOWTO USE:
 - Install FFmpeg (if not done already)
 - Download script to the same location where you have the files 
   you want to convert.
+- make the file executable with this comman: "chmod +x SunCatMediaConverter_v.0.01" 
 - Run from Terminal (OR Double click the script and choose Run In Terminal)
 - Choose the input file (.mkv / .mp4)
 - Choose output
